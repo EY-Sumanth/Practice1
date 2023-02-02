@@ -7,6 +7,7 @@ namespace Practice1
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello mike!");
+            Console.WriteLine("Hello mike!");
         }
     }
 }
